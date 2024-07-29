@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\magus\\JugSolver\\JugSolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|c:\\users\\magus\\jugsolver\\jugsolver\\services\\jugsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|solutionrelative:services\\jugsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|c:\\users\\magus\\jugsolver\\jugsolver\\models\\juginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|solutionrelative:models\\juginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|c:\\users\\magus\\jugsolver\\jugsolver\\controllers\\jugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|solutionrelative:controllers\\jugcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|c:\\users\\magus\\jugsolver\\jugsolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|c:\\users\\magus\\jugsolver\\jugsolver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36714A33-9C21-4B37-8C7D-A98F941E7446}|JugSolver.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JugController.cs",
+              "DocumentMoniker": "C:\\Users\\magus\\JugSolver\\JugSolver\\Controllers\\JugController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JugController.cs",
+              "ToolTip": "C:\\Users\\magus\\JugSolver\\JugSolver\\Controllers\\JugController.cs",
+              "RelativeToolTip": "Controllers\\JugController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:03:11.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JugSolver.cs",
+              "DocumentMoniker": "C:\\Users\\magus\\JugSolver\\JugSolver\\Services\\JugSolver.cs",
+              "RelativeDocumentMoniker": "Services\\JugSolver.cs",
+              "ToolTip": "C:\\Users\\magus\\JugSolver\\JugSolver\\Services\\JugSolver.cs",
+              "RelativeToolTip": "Services\\JugSolver.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwDAAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:01:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JugInput.cs",
+              "DocumentMoniker": "C:\\Users\\magus\\JugSolver\\JugSolver\\Models\\JugInput.cs",
+              "RelativeDocumentMoniker": "Models\\JugInput.cs",
+              "ToolTip": "C:\\Users\\magus\\JugSolver\\JugSolver\\Models\\JugInput.cs",
+              "RelativeToolTip": "Models\\JugInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:01:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\magus\\JugSolver\\JugSolver\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\magus\\JugSolver\\JugSolver\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T22:56:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\magus\\JugSolver\\JugSolver\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\magus\\JugSolver\\JugSolver\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:53:59.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
